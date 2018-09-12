@@ -1,0 +1,1 @@
+MSG.catGY273 = "Electronic compass";

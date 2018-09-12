@@ -1,0 +1,19 @@
+<category id="catGY273" tags="fly,smart">
+  <block type="variables_set">
+    <field name="VAR">gy273</field>
+    <value name="VALUE">
+      <block type="gy273_new">
+        <field name="sda">10</field>
+        <field name="scl">11</field>
+      </block>
+    </value>
+  </block>
+
+  <block type="gy273_on">
+    <value name="do"></value>
+  </block>
+
+   <block type="gy273_val"></block>
+   <block type="gy273_compass"></block>
+   <block type="gy273_off"></block>
+</category>

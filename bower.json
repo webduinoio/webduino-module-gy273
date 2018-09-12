@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-gy273",
+  "description": "GY273 Module for Webduino",
+  "main": "GY273.js",
+  "authors": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "gy273"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-gy273",
+  "version": "1.0.0",
+  "description": "GY273 Module for Webduino",
+  "main": "Gy273.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "gy273"
+  ],
+  "dependencies": {
+    "webduino-js": "0.x"
+  }
+}
