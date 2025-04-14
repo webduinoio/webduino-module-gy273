@@ -48,7 +48,7 @@ Blockly.Blocks['gy273_new'] = {
     this.setOutput(true, null);
     this.setColour(230);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl(Blockly.Msg.WEBDUINO_GY273_HELPURL);
   }
 };
 
@@ -64,7 +64,7 @@ Blockly.Blocks['gy273_on'] = {
     this.setNextStatement(true, null);
     this.setColour(65);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl(Blockly.Msg.WEBDUINO_GY273_HELPURL);
   }
 };
 
@@ -77,7 +77,7 @@ Blockly.Blocks['gy273_off'] = {
     this.setNextStatement(true, null);
     this.setColour(65);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl(Blockly.Msg.WEBDUINO_GY273_HELPURL);
   }
 };
 
@@ -91,7 +91,7 @@ Blockly.Blocks['gy273_val'] = {
     this.setOutput(true, null);
     this.setColour(35);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl(Blockly.Msg.WEBDUINO_GY273_HELPURL);
   }
 };
 
@@ -105,6 +105,6 @@ Blockly.Blocks['gy273_compass'] = {
     this.setOutput(true, null);
     this.setColour(35);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl(Blockly.Msg.WEBDUINO_GY273_HELPURL);
   }
 };

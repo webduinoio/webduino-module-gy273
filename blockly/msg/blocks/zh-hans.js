@@ -9,3 +9,4 @@ Blockly.Msg.WEBDUINO_GY273_VAL = "数值";
 Blockly.Msg.WEBDUINO_GY273_X_DIRECTION = "( X轴箭头为方向 )";
 Blockly.Msg.WEBDUINO_GY273_DIRECTION_ANGLE = "方位角";
 Blockly.Msg.WEBDUINO_GY273_DIRECTION = "方位";
+Blockly.Msg.WEBDUINO_GY273_HELPURL = "https://resource.webduino.io/docs/cloud-component/sensor/compass";

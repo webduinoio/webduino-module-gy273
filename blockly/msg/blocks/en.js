@@ -9,3 +9,4 @@ Blockly.Msg.WEBDUINO_GY273_VAL = "value";
 Blockly.Msg.WEBDUINO_GY273_X_DIRECTION = "(X-axis arrow is direction)";
 Blockly.Msg.WEBDUINO_GY273_DIRECTION_ANGLE = "azimuth";
 Blockly.Msg.WEBDUINO_GY273_DIRECTION = "direction";
+Blockly.Msg.WEBDUINO_GY273_HELPURL = "https://resource.webduino.io/docs/cloud-component/sensor/compass";
